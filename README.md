@@ -8,7 +8,7 @@ Bulk Downloads from youtube, extracts only audio and copies to a folder(e.g. USB
 - last param in below command is folder where audio files (extracted from from youtube urls inside file above) will be copied. I used USB folder (for mac its under /Volumes/your_usbname) 
 
 ## Usage : ## 
-python downloader.py  *files_containing_list_of_YouTube_urls*   *output_folder_where_files_will_be_copied* 
+python downloader.py  _**files_containing_list_of_YouTube_urls**_   _**output_folder_where_files_will_be_copied**_ 
 
 ## Future improvements ## 
 Use threads instead of sequentially downloading file.
