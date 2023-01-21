@@ -1,5 +1,10 @@
 # Youtube bulk downloader and audio extractor # 
 
+## Python package to install to use this ##
+pip install  youtube_dl  or 
+pip3 install  youtube_dl (if pip3 is used for python3)
+
+
 ## Description ## 
 Bulk Downloads from youtube, extracts only audio and copies to a folder(e.g. USB pen drive folder)
 
